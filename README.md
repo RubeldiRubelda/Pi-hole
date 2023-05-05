@@ -1,7 +1,7 @@
 # Pi-hole
 Pi hole Adblocking  
 Here you find Websites and files for your Pi hole
-
+Please note that I do this in my spare time and updates don't always come. I will take care of the list when I have time.
 
 # Installing
 1. Copy as much as you want of the URLs
