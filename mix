@@ -56,6 +56,9 @@ ads-api.twitter.com
 #Youtube
 ads.youtube.com
 
+#Tiktok 
+ads-api.tiktok.com
+business-api.tiktok.com
 
 #Random URLs
 ads.yahoo.com
@@ -81,3 +84,18 @@ auction.unityads.unity3d.com
 webview.unityads.unity3d.com
 config.unityads.unity3d.com
 adserver.unityads.unity3d.com
+
+
+#analytics
+
+adm.hotjar.com
+identify.hotjar.com
+surveys.hotjar.com
+events.hotjar.io
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+api.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+api.luckyorange.com
+realtime.luckyorange.com
