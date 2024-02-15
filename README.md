@@ -16,4 +16,6 @@ https://raw.githubusercontent.com/RubeldiRubelda/Pi-hole/main/mix
 
 https://raw.githubusercontent.com/RubeldiRubelda/Pi-hole/main/GoogleADS
 
+https://raw.githubusercontent.com/RubeldiRubelda/Pi-hole/main/malware%26malsites
+
 https://raw.githubusercontent.com/RubeldiRubelda/Pi-hole/main/OEMs
